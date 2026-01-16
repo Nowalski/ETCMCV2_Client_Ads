@@ -1,0 +1,13 @@
+{
+  "ads_enabled": true,
+  "providers": ["adsense"],
+  "rotation": "first",
+  "slots": {
+    "header": { "enabled": true },
+    "sidebar": { "enabled": true },
+    "footer": { "enabled": false }
+  },
+  "scripts": {
+    "adsense": "<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID' crossorigin='anonymous'></script>"
+  }
+}
