@@ -5,31 +5,45 @@
   "slots": {
     "header": {
       "enabled": true,
-      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=728x90\" width=\"728\" height=\"600\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=728x90\" width=\"728\" height=\"600\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>",
+      "provider": "adsterra",
+      "smartlink": "https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b"
     },
     "sidebar": {
       "enabled": true,
-      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=300x600\" width=\"300\" height=\"1000\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=300x600\" width=\"300\" height=\"1000\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>",
+      "provider": "adsterra",
+      "smartlink": "https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b"
     },
     "footer": {
       "enabled": true,
-      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=728x90\" width=\"728\" height=\"600\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=728x90\" width=\"728\" height=\"600\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>",
+      "provider": "adsterra",
+      "smartlink": "https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b"
     },
     "claim_banner_1": {
       "enabled": true,
-      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=300x250\" width=\"300\" height=\"1000\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=300x250\" width=\"300\" height=\"1000\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>",
+      "provider": "adsterra",
+      "smartlink": "https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b"
     },
     "claim_banner_2": {
       "enabled": true,
-      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=300x250\" width=\"300\" height=\"1000\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=300x250\" width=\"300\" height=\"1000\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>",
+      "provider": "adsterra",
+      "smartlink": "https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b"
     },
     "claim_banner_3": {
       "enabled": true,
-      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=300x250\" width=\"300\" height=\"1000\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b&format=300x250\" width=\"300\" height=\"1000\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>",
+      "provider": "adsterra",
+      "smartlink": "https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b"
     },
     "popunder": {
       "enabled": true,
-      "script": "<script src=\"https://pl28504197.effectivegatecpm.com/c0/9a/b4/c09ab475e41fe6430d267f3a1d16b3bd.js\"></script>"
+      "script": "<script src=\"https://pl28504197.effectivegatecpm.com/c0/9a/b4/c09ab475e41fe6430d267f3a1d16b3bd.js\"></script>",
+      "provider": "adsterra",
+      "smartlink": "https://www.effectivegatecpm.com/vwz4bgnu?key=75be6abb0d4fd919c69d043eca703c0b"
     }
   },
   "scripts": {
