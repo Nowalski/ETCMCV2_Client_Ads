@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "providers": ["adsterra"],
   "rotation": "first",
   "slots": {
