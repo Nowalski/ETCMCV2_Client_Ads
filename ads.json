@@ -1,13 +1,38 @@
 {
   "ads_enabled": true,
-  "providers": ["adsense"],
+  "providers": ["adsterra"],
   "rotation": "first",
   "slots": {
-    "header": { "enabled": true },
-    "sidebar": { "enabled": true },
-    "footer": { "enabled": false }
+    "header": {
+      "enabled": true,
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/dpuy60yu?key=42b2cd695bcb412ac8920e437b501529&format=728x90\" width=\"728\" height=\"400\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+    },
+    "sidebar": {
+      "enabled": true,
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/dpuy60yu?key=42b2cd695bcb412ac8920e437b501529&format=300x250\" width=\"300\" height=\"800\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+    },
+    "footer": {
+      "enabled": true,
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/dpuy60yu?key=42b2cd695bcb412ac8920e437b501529&format=728x90\" width=\"728\" height=\"400\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+    },
+    "claim_banner_1": {
+      "enabled": true,
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/dpuy60yu?key=42b2cd695bcb412ac8920e437b501529&format=300x250\" width=\"300\" height=\"800\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+    },
+    "claim_banner_2": {
+      "enabled": true,
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/dpuy60yu?key=42b2cd695bcb412ac8920e437b501529&format=300x250\" width=\"300\" height=\"800\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+    },
+    "claim_banner_3": {
+      "enabled": true,
+      "script": "<iframe src=\"https://www.effectivegatecpm.com/dpuy60yu?key=42b2cd695bcb412ac8920e437b501529&format=300x250\" width=\"300\" height=\"800\" frameborder=\"0\" scrolling=\"no\" style=\"border: none; margin: 0; padding: 0;\"></iframe>"
+    },
+    "popunder": {
+      "enabled": true,
+      "script": "<script type=\"text/javascript\" src=\"https://www.effectivegatecpm.com/dpuy60yu?key=42b2cd695bcb412ac8920e437b501529&format=popunder\"></script>"
+    }
   },
   "scripts": {
-    "adsense": "<script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID' crossorigin='anonymous'></script>"
+    "adsterra": "<!-- Adsterra Ad Provider -->"
   }
 }
